@@ -13,5 +13,16 @@
 - Scikit Learn for model training, model optimization, and metrics calculation
 
 
-
+# Methods used :
+- Exploratory Data Analysis
+- Data Cleaning (Null value treatment, Duplicated)
+- Data Vizualization with insights explaination
+- Data preprocessing, Data Transformation (skewed data)
+- Data Manipulation
+- Feature Engineering, Feature Selection
+- Appropriate ML Model Selection
+- Data Scaling (Standardization, Noramlization)
+- Performance evaluation
+- Hyperparameter Tuning
+- Hierarchy code (whole jupyter notebook can processed in one click)
   
