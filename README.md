@@ -4,7 +4,11 @@
 # Link to dataset
 - https://docs.google.com/spreadsheets/d/1HQ98vyhbUW1cMwHn73ooW8AfeFYuymOh/edit?usp=sharing&ouid=111221163617964625375&rtpof=true&sd=true
 
-  
+# Features
+![image](https://github.com/MrMRaut/Airline-Referral-ML-Project-/assets/121652990/2d11b2ff-781b-40cb-81b4-59c4f68ee590)
+
+
+
 # Main Libraries used:
 
 - Pandas for data manipulation, aggregation
