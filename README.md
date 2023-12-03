@@ -12,7 +12,6 @@
 - NumPy for computationally efficient operations
 - Scikit Learn for model training, model optimization, and metrics calculation
 
-![image](https://github.com/MrMRaut/Airline-Referral-ML-Project-/assets/121652990/de37e17a-035f-4462-9b1b-64d0bf3518da)
 
 
 # Methods used :
